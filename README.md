@@ -1,2 +1,13 @@
-# Education-Organisation-Using-Servicenow-
-The Educational Management System is a comprehensive platform  designed to streamline administrative tasks within educational institutions. It  facilitates efficient management of student and teacher data, simplifies the  admission process, and provides tools for monitoring student progress.
+Education-Organisation-Using-Servicenow
+
+Team ID : NM2025TMID01939
+
+Team Size : 4
+
+Team Leader : Bharanitharan M
+
+Team member : Senthilnathan K
+
+Team member : Pragadeesh S
+
+Team member : Mohamed Safeek S
